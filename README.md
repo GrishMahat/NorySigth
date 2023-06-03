@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @GrishMahat
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python
 - 📫 How to reach me on email grishmahat@gmail.com
 
 <!---
