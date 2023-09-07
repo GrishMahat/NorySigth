@@ -1,8 +1,15 @@
-- 👋 Hi, I’m @GrishMahat
-- 👀 I’m interested in programming
-- 📫 How to reach me on email grishmahat@gmail.com
+# 👋 Hi, I'm Grish Mahat
 
-<!---
-GrishMahat/GrishMahat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! I'm passionate about programming and enjoy exploring various aspects of software development. Here's a bit about me:
+
+- 👀 I'm interested in programming, including web development and application development.
+- 🌱 I'm constantly learning and experimenting with new technologies and languages.
+- 📫 You can reach me via email at grishmahat@gmail.com. Feel free to contact me for collaboration or any inquiries.
+
+## 🔧 Technologies I Work With
+
+- Languages: Python, JavaScript
+- Web Development: HTML, CSS, React, Node.js
+- Databases: MongoDB
+- Version Control: Git
+
