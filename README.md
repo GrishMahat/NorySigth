@@ -8,8 +8,8 @@ Welcome to my GitHub profile! I'm passionate about programming and enjoy explori
 
 ## 🔧 Technologies I Work With
 
-- Languages: Python, JavaScript
-- Web Development: (HTML, CSS, React, Node.js, TypeScript, Tailwind, NextJS) Currently learning
+- Languages: Python, JavaScript, Java
+- Web Development: HTML, CSS, React, Node.js, TypeScript, Tailwind, NextJS
 - Databases: MongoDB
 - Version Control: Git
 
