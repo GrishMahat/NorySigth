@@ -1,6 +1,6 @@
-# 👋 Hello, I'm Grish Mahat
+# 👋 Hello, I'm NorySight
 
-Welcome to my GitHub profile! I'm Grish, and programming is not just a skill for me—it's a passion that drives me to explore the limitless possibilities of software development.
+Welcome to my GitHub profile! I'm NorySight, and programming is not just a skill for me—it's a passion that drives me to explore the limitless possibilities of software development.
 
 - 👀 My curiosity knows no bounds when it comes to programming, especially in the realms of web development and application design.
 - 🌱 I thrive on learning an d continuously push myself to master new technologies and languages, always hungry for the next challenge.
